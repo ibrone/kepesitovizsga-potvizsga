@@ -1,4 +1,4 @@
-//package hu.nive.ujratervezes.forest;
+//package hu.nive.ujratervezes.kepesitovizsga.forest;
 //
 //import org.junit.jupiter.api.Test;
 //
